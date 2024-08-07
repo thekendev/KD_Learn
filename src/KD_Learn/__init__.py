@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("KD-LearnLogger")
+logger = logging.getLogger("KD_LearnLogger")

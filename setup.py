@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "KD-Learn"
+REPO_NAME = "KD_Learn"
 AUTHOR_USER_NAME = "thekendev"
-SRC_REPO = "KD-Learn"
+SRC_REPO = "KD_Learn"
 AUTHOR_EMAIL = "theken.dev@gmail.com"
 
 

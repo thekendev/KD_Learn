@@ -1,3 +1,3 @@
-from src.KD-Learn import logger
+from KD_Learn import logger
 
 logger.info("Welcome to custom log")
