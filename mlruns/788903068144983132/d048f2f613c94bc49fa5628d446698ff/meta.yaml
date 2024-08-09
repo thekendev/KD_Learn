@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kanayojustice/Documents/Data_scientist_projects/KD_Learn/mlruns/788903068144983132/d048f2f613c94bc49fa5628d446698ff/artifacts
+end_time: 1723206163310
+entry_point_name: ''
+experiment_id: '788903068144983132'
+lifecycle_stage: active
+run_id: d048f2f613c94bc49fa5628d446698ff
+run_name: able-worm-17
+run_uuid: d048f2f613c94bc49fa5628d446698ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723206163177
+status: 3
+tags: []
+user_id: kanayojustice
